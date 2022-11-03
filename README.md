@@ -33,6 +33,6 @@
 
 <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex015/index.html">Executar o exercício 015</a></li>
 
-<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex016">Executar o exercício 016</a></li>
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex016/cor01.html">Executar o exercício 016</a></li>
 
-<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex017">Executar o exercício 017</a></li>
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex017/fonte01.html">Executar o exercício 017</a></li>
