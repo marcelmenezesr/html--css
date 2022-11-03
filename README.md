@@ -20,3 +20,11 @@
 <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex008b/index.html">Executar o exercício 008b</a></li>
 
 <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex009/index.html">Executar o exercício 009</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex010/index.html">Executar o exercício 010</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex011/index.html">Executar o exercício 011</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex012/index.html">Executar o exercício 012</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex013/index.html">Executar o exercício 013</a></li>
