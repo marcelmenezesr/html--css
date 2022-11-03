@@ -12,3 +12,11 @@
 <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex004/index.html">Executar o exercício 004</a></li>
 
 <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex006/index.html">Executar o exercício 006</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex007/index.html">Executar o exercício 007</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex008/index.html">Executar o exercício 008</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex008b/index.html">Executar o exercício 008b</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex009/index.html">Executar o exercício 009</a></li>
