@@ -35,4 +35,28 @@
 
 <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex016/cor01.html">Executar o exercício 016</a></li>
 
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex016/cor02.html">Executar o exercício 016</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex016/cor03.html">Executar o exercício 016</a></li>
+
 <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex017/fonte01.html">Executar o exercício 017</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex017/fonte02.html">Executar o exercício 017</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex018/fonte01.html">Executar o exercício 018</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex018/fonte02.html">Executar o exercício 018</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex019/seletor01.html">Executar o exercício 019</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex020/hover.html">Executar o exercício 020</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex020/links.html">Executar o exercício 020</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex020/pseudoclasse.html">Executar o exercício 020</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex021/caixa01.html">Executar o exercício 021</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex021/caixa02.html">Executar o exercício 021</a></li>
+
+<li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex021/caixa03.html">Executar o exercício 021</a></li>
