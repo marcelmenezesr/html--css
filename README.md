@@ -39,4 +39,5 @@
     <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex022/fundo004.html">Executar o exercício 022</a></li>
     <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex022/fundo005.html">Executar o exercício 022</a></li>
     <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex022/fundo006.html">Executar o exercício 022</a></li>
+    <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex022/fundo007.html">Executar o exercício 022</a></li>
     </ul>
