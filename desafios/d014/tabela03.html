@@ -16,34 +16,33 @@
             
         }
 
-        thead{
+        thead,.notas{
             background-color: rgba(46, 44, 44, 0.829);
             color: white;
             text-align: center;
+            font-weight: bolder;
         }
 
-        td, th{
+        td,th{
             border: 1px solid black;
             padding: 10px;
             text-align: center;
+        
         }
 
-        th#me{
+        .cinza{
             background-color: rgba(46, 44, 44, 0.829);
             color: white;
+            font-weight: bolder;
             text-align: justify;
         }
 
-        td#me{
-            background-color: rgba(46, 44, 44, 0.829);
-            color: white;
-            font-weight: bold;
-        }
-
-        td#ma{
+        .materias{
             text-align: justify;
             padding: 3px;
         }
+              
+        
     </style>
 </head>
 <body>
@@ -62,21 +61,21 @@
         <tbody> 
             <tr>
                 <th rowspan="4">Exatas</th>
-                <td id="ma">Matemática</td>
+                <td class="materias">Matemática</td>
                 <td>0.0</td>
                 <td>0.0</td>
                 <td>0.0</td>
             </tr>
 
             <tr>
-                <td id="ma">Física</td>
+                <td class="materias">Física</td>
                 <td>0.0</td>
                 <td>0.0</td>
                 <td>0.0</td>
             </tr>
 
             <tr>
-                <td id="ma">Química</td>
+                <td class="materias">Química</td>
                 <td>0.0</td>
                 <td>0.0</td>
                 <td>0.0</td>
@@ -84,35 +83,35 @@
 
 
             <tr>
-                <td id="ma">Biologia</td>
+                <td class="materias">Biologia</td>
                 <td>0.0</td>
                 <td>0.0</td>
                 <td>0.0</td>
             </tr>
 
             <tr>
-                <th colspan="4" id="me" scope="rowgroup">Média de Exatas</th>
-                <td id="me">0.0</td>
+                <th colspan="4" class="cinza" scope="rowgroup">Média de Exatas</th>
+                <td class="notas">0.0</td>
             </tr>
 
             <tr>
                 <th rowspan="2">Humanas</th>
-                <td id="ma">História</td>
+                <td class="materias">História</td>
                 <td>0.0</td>
                 <td>0.0</td>
                 <td>0.0</td>
             </tr>
 
             <tr>
-                <td id="ma">Geografia</td>
+                <td class="materias">Geografia</td>
                 <td>0.0</td>
                 <td>0.0</td>
                 <td>0.0</td>
             </tr>
 
             <tr>
-                <th colspan="4" id="me" scope="rowgroup">Média de Humanas</th>
-                <td id="me">0.0</td>
+                <th colspan="4" class="cinza" scope="rowgroup">Média de Humanas</th>
+                <td class="notas">0.0</td>
             </tr>
 
         </tbody>
