@@ -40,12 +40,13 @@
     <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex022/fundo005.html">Executar o exercício 022</a></li>
     <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex022/fundo006.html">Executar o exercício 022</a></li>
     <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex022/fundo007.html">Executar o exercício 022</a></li>
-    </ul>
+    <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex023/tabela001.html">Executar o exercício 023</a></li>
+    <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex023/tabela002.html">Executar o exercício 023</a></li>
+    <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex023/tabela003.html">Executar o exercício 023</a></li>
+    <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex023/tabela004.html">Executar o exercício 023</a></li>
+    <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex023/tabela005.html">Executar o exercício 023</a></li>
     <li><a href="https://marcelmenezesr.github.io/html--css/desafios/d011/index.html">Executar o desafio 011</a></li>
-    </ul>
     <li><a href="https://marcelmenezesr.github.io/html--css/desafios/d013/tabela01.html">Executar o desafio 013</a></li>
-    </ul>
     <li><a href="https://marcelmenezesr.github.io/html--css/desafios/d013/tabela02.html">Executar o desafio 013</a></li>
-    </ul>
     <li><a href="https://marcelmenezesr.github.io/html--css/desafios/d014/tabela03.html">Executar o desafio 014</a></li>
     </ul>
