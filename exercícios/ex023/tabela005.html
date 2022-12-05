@@ -9,6 +9,10 @@
         body{
             font-family: Arial, Helvetica, sans-serif;
         }
+        h1{
+            text-align: center;
+            text-decoration: underline
+        }
         table{
             width: 500px;
             border-collapse: collapse;
@@ -21,7 +25,12 @@
         th, td{
             border: 1px solid black;
             padding: 8px;
-            
+        }
+        col.cnome{
+            background-color: chartreuse;
+        }
+        col.csexo,.cidade{
+            background-color: orangered;
         }
     </style>
 </head>
@@ -29,6 +38,12 @@
     <h1>Exercício de Tabelas</h1>
 
     <table>
+        <colgroup>
+            <col class="cnome">
+            <col class="csexo">
+            <col class="cidade">
+            <col class="cprof">
+        </colgroup>
         <caption>Cadastro</caption>
         <tr>
             <th scope="col">Nome</th>
