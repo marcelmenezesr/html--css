@@ -43,3 +43,7 @@
     </ul>
     <li><a href="https://marcelmenezesr.github.io/html--css/desafios/d011/index.html">Executar o desafio 011</a></li>
     </ul>
+    <li><a href="https://marcelmenezesr.github.io/html--css/desafios/d013/tabela01.html">Executar o desafio 013</a></li>
+    </ul>
+    <li><a href="https://marcelmenezesr.github.io/html--css/desafios/d013/tabela02.html">Executar o desafio 013</a></li>
+    </ul>
