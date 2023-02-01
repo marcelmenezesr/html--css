@@ -49,6 +49,7 @@
     <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex026/mq02/index.html">Executar o exercício 026</a></li>
     <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex026/mq03/index.html">Executar o exercício 026</a></li>
     <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex026/mq04/index.html">Executar o exercício 026</a></li>
+    <li><a href="https://marcelmenezesr.github.io/html--css/exercícios/ex026/mq05/index.html">Executar o exercício 026</a></li>
     <li><a href="https://marcelmenezesr.github.io/html--css/desafios/d011/index.html">Executar o desafio 011</a></li>
     <li><a href="https://marcelmenezesr.github.io/html--css/desafios/d013/tabela01.html">Executar o desafio 013</a></li>
     <li><a href="https://marcelmenezesr.github.io/html--css/desafios/d013/tabela02.html">Executar o desafio 013</a></li>
