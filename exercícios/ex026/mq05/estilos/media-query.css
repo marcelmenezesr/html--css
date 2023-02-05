@@ -10,7 +10,7 @@ Grandes telas: acima de 1200px
 */
 
 @media screen and (min-width: 768px) {
-    span#burguer {
+    i#burguer {
         display: none;
     }
 
@@ -23,6 +23,6 @@ Grandes telas: acima de 1200px
     }
 
     main {
-        width: 768px;
+       max-width: 768px;
     }
 }

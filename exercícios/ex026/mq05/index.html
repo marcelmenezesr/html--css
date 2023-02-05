@@ -12,7 +12,7 @@
 <body onresize="mudouTamanho()">
     <header>
         <h1>Meu Site</h1>
-        <span id="burguer" class="material-icons" onclick="clickMenu()"> menu </span>
+        <i id="burguer" class="material-icons" onclick="clickMenu()"> menu</i>
         <menu id="itens">
             <ul>
                 <li><a href="#">Opção 1</a></li>
@@ -38,12 +38,11 @@
             </article>
         </main>
         <script>
-
             function mudouTamanho() {
-                if (window.innerwidth >= 768) {
-                    itens.style.display = 'block'
-                }
-                else{
+               if (window.innerwidth >= 768) {
+                itens.style.display = 'block'
+               } 
+               else{
                 itens.style.display = 'none'
                }
             }
@@ -51,7 +50,8 @@
             function clickMenu() {
                if (itens.style.display == 'block') {
                 itens.style.display = 'none'
-               } else{
+               } 
+               else{
                 itens.style.display = 'block'
                }
             }
